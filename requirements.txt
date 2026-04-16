@@ -1,7 +1,4 @@
-import torch
-import torch.nn as nn
-import torch.optim as optim
-import torchvision
-import torchvision.transforms as transforms
-from torchvision.models import resnet50, ResNet50_Weights
-import os
+torch
+torchvision
+matplotlib
+numpy
