@@ -13,3 +13,14 @@ a requirements.txt that describes all external modules it uses.
 • Include a test.py file that demonstrates running DeepXplore on your models
 and producing outputs. The specific format is not required, but it should
 demonstrate your code’s validity.
+
+# 1. Environment Setup
+
+requirements.txt를 다운받아 주세요.
+
+# 2. train.py
+
+실행(?) 
+
+# 3. test.py
+실행하면 됩니다.
